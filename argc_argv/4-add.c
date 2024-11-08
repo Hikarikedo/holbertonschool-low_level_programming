@@ -2,7 +2,6 @@
 #include "stdio.h"
 
 /**
-
  *main - adds positive numbers
  *@argc: counts the arguments
  *@argv: array of argument
