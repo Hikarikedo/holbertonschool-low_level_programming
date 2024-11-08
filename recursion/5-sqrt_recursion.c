@@ -1,10 +1,9 @@
 #include "main.h"
-
 /**
  *find_sqrt - finds square root of @num
  *@num: int
  *@root: root
- *Return: if num has natural square root 
+ *Return: if num has natural square root
  *otherwise return natural sqrt -1
  */
 int find_sqrt(int num, int root)
